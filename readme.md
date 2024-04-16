@@ -4,11 +4,11 @@ Welcome. Lets first start with aplications installed
 
 - lightdm
 - i3
-- dmenu
 - compton
 - feh
 - alacritty
 - fastfetch
+- rofi
 
 
 Now to the instructions
